@@ -20,8 +20,7 @@ public class Student {
         this.address = address;
     }
     private String address;
-    private String address;
-    
+
     public String getName() {
         return name;
     }
