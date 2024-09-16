@@ -11,6 +11,14 @@ package studentlist;
 public class Student {
     private String name;
     private String studentID;
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
     private String address;
     private String address;
     
